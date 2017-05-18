@@ -1,0 +1,74 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:10:5-22:19
+MERGED from [com.android.support:design:24.0.0] C:\Users\yanri\.android\build-cache\0bf33ce6775856f3a56fb412361e7c97146d9148\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\yanri\.android\build-cache\6529fc0112906f972ffae0050d369051ddde7cc5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\yanri\.android\build-cache\dae7a9bffddb0ce1cfc7ad3c314fdcb5cb2308c5\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\yanri\.android\build-cache\01bf05646e554370ed10c97d87d88da14a9e8a41\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\yanri\.android\build-cache\3368ea9b0897c5875968c26d786377812306a648\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.aluno.olay.MainActivity
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:16:9-21:20
+	android:name
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.0.0] C:\Users\yanri\.android\build-cache\0bf33ce6775856f3a56fb412361e7c97146d9148\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.0.0] C:\Users\yanri\.android\build-cache\10190448bead057dbc347766412345ef8e475cf2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\yanri\.android\build-cache\6529fc0112906f972ffae0050d369051ddde7cc5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\yanri\.android\build-cache\dae7a9bffddb0ce1cfc7ad3c314fdcb5cb2308c5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\yanri\.android\build-cache\01bf05646e554370ed10c97d87d88da14a9e8a41\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\yanri\.android\build-cache\3368ea9b0897c5875968c26d786377812306a648\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\yanri\.android\build-cache\6529fc0112906f972ffae0050d369051ddde7cc5\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\src\main\AndroidManifest.xml

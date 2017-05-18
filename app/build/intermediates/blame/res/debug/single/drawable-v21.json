@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
