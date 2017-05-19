@@ -3,12 +3,30 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\yanri\.android\build-cache\60373b77f9b0351d91fc7d5d70b79bce14f3a4cd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\build\intermediates\pre-dexed\debug\classes_8469f25274bcc0addeef8ab95a81d43305ea6d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\yanri\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
         <dex dex="C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0_95a88bfeb40fd3737178a5c936e705fccd148304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yanri\.android\build-cache\9c82e1675e336122f528bc526628e47a042e2bb6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\build\intermediates\pre-dexed\debug\classes_9bc38a802688f2f60d3b4cec14a36eda08263423.jar" />
     </item>
     <item
         is-multidex="false"
@@ -27,6 +45,24 @@
         revision="25.0.0"
         sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
         <dex dex="C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\build\intermediates\pre-dexed\debug\gson-2.7_20f72fe59297348a1b5e8e3755834d9a3aae2858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yanri\.android\build-cache\d7f1eb735d6844386c6252109ce1c8a9696223c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\build\intermediates\pre-dexed\debug\classes_d3d3e3b07f6e8d6cc8956b793647528e7083d2e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\yanri\.android\build-cache\24da91822c7353eecb40bddac76c3998e391ccc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\yanri\Desktop\Projetos\AndroidStudio\DISPOSITIVOSMOVEIS\Olay\Olay2\app\build\intermediates\pre-dexed\debug\classes_bd41408a43b9c073bec406b23462d8897173be75.jar" />
     </item>
     <item
         is-multidex="false"

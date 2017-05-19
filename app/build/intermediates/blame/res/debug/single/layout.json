@@ -24,12 +24,12 @@
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
@@ -48,20 +48,20 @@
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "C:\\Users\\yanri\\.android\\build-cache\\0bf33ce6775856f3a56fb412361e7c97146d9148\\output\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\0bf33ce6775856f3a56fb412361e7c97146d9148\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_custom_view_done_cancel.xml",

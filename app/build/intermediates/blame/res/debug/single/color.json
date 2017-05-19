@@ -68,6 +68,10 @@
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
@@ -78,6 +82,10 @@
     {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -102,6 +110,10 @@
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",

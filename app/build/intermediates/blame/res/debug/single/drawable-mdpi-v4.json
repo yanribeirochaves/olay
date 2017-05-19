@@ -32,6 +32,10 @@
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
@@ -112,6 +120,10 @@
         "source": "C:\\Users\\yanri\\.android\\build-cache\\6529fc0112906f972ffae0050d369051ddde7cc5\\output\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
@@ -122,6 +134,10 @@
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
@@ -188,6 +204,10 @@
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -214,6 +234,10 @@
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Lucas\\.android\\build-cache\\4be758eb6f80b11b729bf95ef1364638add7ddee\\output\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\yanri\\Desktop\\Projetos\\AndroidStudio\\DISPOSITIVOSMOVEIS\\Olay\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\yanri\\.android\\build-cache\\9c82e1675e336122f528bc526628e47a042e2bb6\\output\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "D:\\Desenvolvimento\\Olay2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",

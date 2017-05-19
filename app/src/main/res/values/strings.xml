@@ -24,4 +24,5 @@
     <!-- actionbar buttons-->
     <string name="done">Enviar</string>
     <string name="cancel">Cancelar</string>
+    <string name="title_activity_view_event">Map</string>
 </resources>
